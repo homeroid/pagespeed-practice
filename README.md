@@ -1,8 +1,8 @@
-#pagespeed-practice
+# pagespeed-practice
 
 This task will introduce you to the best practices to optimize web pages and make them mobile friendly. You will use Google PageSpeed Insights and GitHub Pages to complete this task.
 
-##Steps
+## Steps
  - Research about the best practices for web page optimization.
  - Create a GitHub account and fork this repository.
  - Clone your fork to your desktop.
